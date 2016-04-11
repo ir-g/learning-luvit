@@ -1,6 +1,6 @@
 # learning-luvit
 
-Mucking around with [luvit](luvit.io).
+Mucking around with [luvit](http://luvit.io).
 
 To run luvit apps, type in the terminal:
 
